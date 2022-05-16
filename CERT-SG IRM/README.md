@@ -14,7 +14,7 @@ Using the "Import case template" button, upload the JSON files.
 
 Using the "Edit" button, you can review and adapt the case templates (Description, tasks, customFields) 
 
-## Use it
+## Use
 
 Once imported and adapted to your needs, you can use the templates to create new cases or apply them to existing cases
 
