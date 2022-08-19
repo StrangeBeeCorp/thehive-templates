@@ -25,4 +25,4 @@ Once your case template is ready to be shared, you need to export it as a JSON f
 
 In TheHive, go into the `Case templates` tab in `Organization`, and open the action menu of the case template. Use the `Export case template` action to download the template as a JSON file. 
 
-Finally, open an issue on this repository with the JSON file attached. Once reviewed and validated by StrangeBee crew, your case template will be published. Thanks for your contribution ! 
+Finally, open a pull request containing your case template as JSON file. Once reviewed and validated by StrangeBee crew, your case template will be published. Thanks for your contribution ! 
