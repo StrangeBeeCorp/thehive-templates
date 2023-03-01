@@ -2,13 +2,13 @@
 
 A repository dedicated to the sharing of TheHive dashboards templates. Contributions are welcome !
 
-## How to import a case template in TheHive
+## How to import a Dashboard in TheHive
 
 You must be logged into TheHive to create or import Dashboards.
 
 Go into `Dashboard`(1) page and click on `Import dashboard`(2). Then, provide the JSON file that contains the dashboard template. 
 
-![image](https://user-images.githubusercontent.com/32546144/170098781-4205610a-c2c4-4ffe-ab22-74661f4e8d33.png)
+![image](https://user-images.githubusercontent.com/32546144/222153555-8fb2c98f-f472-450e-b19e-f11c50e4affb.png)
 
 
 ## How to share your Dashboards
