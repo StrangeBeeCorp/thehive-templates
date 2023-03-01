@@ -1,6 +1,3 @@
-![image](https://user-images.githubusercontent.com/32546144/170095170-b9c162d7-3281-42c1-bf6a-9381ce2ed5d6.png)
-
-
 # TheHive Case Templates
 
 A repository dedicated to the sharing of TheHive case templates. Contributions are welcome !
