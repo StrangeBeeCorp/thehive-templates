@@ -6,7 +6,7 @@
 A repository dedicated to the sharing of TheHive Templates. Contributions are welcome !
 
 
-## [Case Templates](./Case%20Templates/README.md)
+## [Case Templates](./Case%20Templates/)
 
 Case templates allows Incident Responders to define predictable structure for your Cases and make the best of TheHive 5 capabilities. 
 
@@ -23,7 +23,7 @@ It also defines default values for the Cases properties:
 
 
 
-## [Dashboard Templates](./Dashboard%20Templates/README.md)
+## [Dashboard Templates](./Dashboard%20Templates/)
 
 A curated collection of Dashboards you can import into your TheHive instance. 
 
