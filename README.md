@@ -23,7 +23,7 @@ It also defines default values for the Cases properties:
 
 
 
-## [Dashboard Templates](./Dashboards%20Templates/README.md)
+## [Dashboard Templates](./Dashboard%20Templates/README.md)
 
 A curated collection of Dashboards you can import into your TheHive instance. 
 
