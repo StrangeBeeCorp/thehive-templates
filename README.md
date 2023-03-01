@@ -1,28 +1,38 @@
 ![image](https://user-images.githubusercontent.com/32546144/170095170-b9c162d7-3281-42c1-bf6a-9381ce2ed5d6.png)
 
 
-# TheHive Case Templates
+# TheHive Templates
 
-A repository dedicated to the sharing of TheHive case templates. Contributions are welcome !
-
-## How to import a case template in TheHive
-
-You must be logged with a user that has the `manageCaseTemplate` permission. 
-
-Go into `Organization`(1) page and open the `Case templates`(2) tab. Click on `Import Case Template`(3) then provide the JSON file that contains the case template. 
-
-![image](https://user-images.githubusercontent.com/32546144/170098781-4205610a-c2c4-4ffe-ab22-74661f4e8d33.png)
+A repository dedicated to the sharing of TheHive Templates. Contributions are welcome !
 
 
-## How to share your case template 
+## [Case Templates](./Case%20Templates/README.md)
 
-> :warning: **Please consider the following points before sharing a case template**: 
-> 
-> - Don't include customFields in your case template. Currently TheHive will NOT import the case templates that include customFields not created BEFORE importing case template.
-> - Ensure there are no sensitive information in the case template you will share.
+Case templates allows Incident Responders to define predictable structure for your Cases and make the best of TheHive 5 capabilities. 
 
-Once your case template is ready to be shared, you need to export it as a JSON file.
+Translate your procedures as Tasks that will guide the analysts to the incident resolution, and automatically provide every customFields that matters to the Cases.
 
-In TheHive, go into the `Case templates` tab in `Organization`, and open the action menu of the case template. Use the `Export case template` action to download the template as a JSON file. 
+It also defines default values for the Cases properties:
+- Severity
+- TLP
+- PAP
+- Prefix
+- Tags
+- Description
+- Others
 
-Finally, open a pull request containing your case template as JSON file. Once reviewed and validated by StrangeBee crew, your case template will be published. Thanks for your contribution ! 
+
+
+## [Dashboards Templates](./Dashboards%20Templates/README.md)
+
+A curated collection of Dashboards you can import into your TheHive instance. 
+
+Dashboards are visual display of data to provide information at-a-glance. 
+It allows analysts and managers to take the pace of the activity and compute statistics for trend analytics or reporting.
+
+One can make statistics on every objects existing into TheHive:
+- Cases
+- Alerts
+- Observables
+- Tasks
+- Others
