@@ -8,7 +8,7 @@ You must be logged into TheHive to create or import Dashboards.
 
 Go into `Dashboard`(1) page and click on `Import dashboard`(2). Then, provide the JSON file that contains the dashboard template. 
 
-![image](https://user-images.githubusercontent.com/32546144/222153555-8fb2c98f-f472-450e-b19e-f11c50e4affb.png)
+![image](https://user-images.githubusercontent.com/32546144/222153839-2b8f71ba-2dee-42d5-92a8-5f6dbedacf8b.png)
 
 
 ## How to share your Dashboards
