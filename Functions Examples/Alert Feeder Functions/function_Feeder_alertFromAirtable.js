@@ -23,14 +23,13 @@ function handle(input, context) {
       ];
       if (context.alert.find(filters) < 1) {
         // the Alert does not exist in TheHive yet, we create it
-        //const timestamp = (new Date()).getTime().toString();
-        //const description = issue.fields["Issue Description"]
+        const desc = issue.fields["Issue Description"]
         const alert = {
           "type": "event",
           "source": "Feeder-Airtable",
           "sourceRef": issue.id,
           "title": "Incident reported: " + issue.fields["Incident Category"] + " - " + issue.fields["Department"],
-          "description": issue.fields["Issue Description"],
+          "description": desc,
           "tags": ['Alertfeeder', 'Airtable', issue.fields["Incident Category"]]
         };
         return context.alert.create(alert);
