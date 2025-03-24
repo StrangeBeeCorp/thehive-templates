@@ -21,7 +21,7 @@ function handle(input, context) {
           ]
         }
       ];
-      if (context.alert.find(filters) < 1) {
+      if (context.alert.find(filters).length < 1) {
         // the Alert does not exist in TheHive yet, we create it
         const desc = issue.fields["Issue Description"]
         const alert = {
@@ -32,7 +32,7 @@ function handle(input, context) {
           "description": desc,
           "tags": ['Alertfeeder', 'Airtable', issue.fields["Incident Category"]]
         };
-        return context.alert.create(alert);
+        context.alert.create(alert);
       }
     });
 }
