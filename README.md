@@ -36,3 +36,16 @@ One can make statistics on every objects existing into TheHive:
 - Observables
 - Tasks
 - Others
+
+
+## [Function Examples](./Functions%20Examples/)
+
+A list of TheHive Function examples, that can inspire or help you in the development your own ones.
+
+Functions are javascript scripts which automate actions in TheHive. They can be execute from different ways:
+- Through public API.
+- Triggered by an event (notifications).
+- Manually from a case or an alert.
+- Periodically by the Alert Feeder to create alerts from an external source.
+
+See more about functions and how to create and manage them in the [public documentation page](https://docs.strangebee.com/thehive/user-guides/organization/functions/).
